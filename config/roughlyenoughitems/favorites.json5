@@ -1,0 +1,17 @@
+{
+	"favorites": [
+		"{mode:\"NOT_SET\",type:\"roughlyenoughitems:time\"}",
+		"{mode:\"NOT_SET\",type:\"roughlyenoughitems:gamemode\"}",
+		"{type:\"roughlyenoughitems:weather\",weather:\"NOT_SET\"}",
+		"{data:{Count:1b,id:\"ae2:name_press\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"ae2:calculation_processor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"ae2:engineering_processor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"ae2:printed_silicon\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"ae2:printed_calculation_processor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"ae2:printed_engineering_processor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"ae2:printed_logic_processor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"ae2:logic_processor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

@@ -1,0 +1,46 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "apotheosis:apoth_chronicle": {
+      "viewedEntries": [
+        "apotheosis:village/fletching",
+        "apotheosis:village/wandering_trader",
+        "apotheosis:adventure/affix_loot/rarities",
+        "apotheosis:adventure/affix_loot/augmenting",
+        "apotheosis:enchanting/changes/enchantability",
+        "apotheosis:enchanting/changes/protection",
+        "apotheosis:enchanting/changes/shears",
+        "apotheosis:enchanting/changes/experience_costs",
+        "apotheosis:enchanting/changes/tridents",
+        "apotheosis:enchanting/changes/sharpness",
+        "apotheosis:garden/ender_lead",
+        "apotheosis:potion/charms/charm",
+        "apotheosis:adventure/rogue_spawners/brutal_spawners",
+        "apotheosis:adventure/attributes/cold_damage",
+        "apotheosis:enchanting/utility/tomes",
+        "apotheosis:enchanting/table/power",
+        "apotheosis:enchanting/table/info",
+        "apotheosis:enchanting/table/seed",
+        "apotheosis:enchanting/table/stats",
+        "apotheosis:enchanting/table/enchantability",
+        "apotheosis:enchanting/utility/cobwebs",
+        "apotheosis:enchanting/utility/treasure",
+        "apotheosis:enchanting/anvil/unbreaking",
+        "apotheosis:enchanting/enchantments/knowledge",
+        "apotheosis:enchanting/utility/scrapping",
+        "apotheosis:enchanting/utility/library",
+        "apotheosis:enchanting/utility/filtering"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:tomeofblood/spellbooks"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
