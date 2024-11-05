@@ -1,0 +1,21 @@
+{
+    "required_mods": [
+      "ad_astra"
+    ],
+    "type": "armor",
+    "insulation": {
+      "heat": 0,
+      "cold": 6
+    },
+    "data": {
+      "items": [
+        "ad_astra:space_suit",
+        "ad_astra:space_helmet",
+        "ad_astra:space_pants",
+        "ad_astra:space_boots"
+      ]
+    },
+    "immune_temp_modifiers": {
+        "cold_sweat:biomes": 0.5
+    }
+  }

@@ -1,0 +1,11 @@
+{
+    "required_mods": [
+        "ad_astra"
+    ],
+    "dimensions": [
+        "ad_astra:venus"
+    ],
+    "units": "F",
+    "temperature": 18,
+    "is_offset": false
+}
