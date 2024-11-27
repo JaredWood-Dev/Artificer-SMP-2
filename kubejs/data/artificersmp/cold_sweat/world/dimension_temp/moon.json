@@ -5,7 +5,7 @@
     "dimensions": [
         "ad_astra:moon"
     ],
-    "temperature": -1,
     "units": "F",
+    "temperature": -6,
     "is_offset": false
 }

@@ -1,0 +1,15 @@
+{
+    "required_mods": [
+        "ad_astra"
+    ],
+    "dimensions": [
+        "ad_astra:moon_orbit",
+        "ad_astra:earth_orbit",
+        "ad_astra:mars_orbit",
+        "ad_astra:venus_orbit",
+        "ad_astra:glacio_orbit"
+    ],
+    "units": "F",
+    "temperature": -6,
+    "is_offset": false
+}

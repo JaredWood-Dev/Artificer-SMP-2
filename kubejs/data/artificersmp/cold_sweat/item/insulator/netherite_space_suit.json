@@ -15,7 +15,20 @@
         "ad_astra:netherite_space_boots"
       ]
     },
-    "immune_temp_modifiers": {
-        "cold_sweat:biomes": 0.75
-    }
+    "attributes": {
+		  "cold_sweat:heat_dampening": [
+			  {
+				  "name": "ad_astra:netherite_suit_set_bonus",
+				  "amount": 0.25,
+				  "operation": "addition"
+			  }
+		  ],
+		  "cold_sweat:cold_dampening": [
+			  {
+				  "name": "ad_astra:netherite_suit_set_bonus",
+				  "amount": 0.25,
+				  "operation": "addition"
+			  }
+		  ]
+	  }
   }

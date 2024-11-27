@@ -1,0 +1,31 @@
+{
+    "required_mods": [
+      "ad_astra"
+    ],
+    "type": "armor",
+    "insulation": {
+      "heat": 6,
+      "cold": 6
+    },
+    "data": {
+      "items": [
+        "ad_astra:jet_suit_boots"
+      ]
+    },
+    "attributes": {
+		"cold_sweat:heat_dampening": [
+			{
+				"name": "ad_astra:jet_suit_set_bonus",
+				"amount": 0.25,
+				"operation": "addition"
+			}
+		],
+    "cold_sweat:cold_dampening": [
+			  {
+				  "name": "ad_astra:netherite_suit_set_bonus",
+				  "amount": 0.25,
+				  "operation": "addition"
+			  }
+		  ]
+	}
+}

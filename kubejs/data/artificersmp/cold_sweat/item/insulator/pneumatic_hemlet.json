@@ -1,0 +1,25 @@
+{
+    "required_mods": [
+      "ad_astra",
+      "pneumaticcraft"
+    ],
+    "type": "armor",
+    "insulation": {
+      "heat": 6,
+      "cold": 6
+    },
+    "data": {
+      "items": [
+        "pneumaticcraft:pneumatic_helmet"
+      ]
+    },
+    "attributes": {
+    "cold_sweat:cold_dampening": [
+			  {
+				  "name": "pneumaticcraft:pneumatic_helmet_bonus",
+				  "amount": 1,
+				  "operation": "addition"
+			  }
+		  ]
+	}
+}
