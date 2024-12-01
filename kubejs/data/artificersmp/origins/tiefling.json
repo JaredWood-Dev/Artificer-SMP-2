@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "artificersmp:tiefling/tiefling_hellish_resistance",
+        "artificersmp:tiefling/tiefling_thuamaturgy",
+        "artificersmp:tiefling/tiefling_hellish_rebuke",
+        "artificersmp:tiefling/tiefling_infernal_arcana",
+        "artificersmp:darkvision",
+        "artificersmp:tiefling/tiefling_thuamaturgy_fire"
+    ],
+    "icon": {
+        "item":"minecraft:red_nether_bricks"
+    },
+    "impact": 1,
+    "name": "Tiefling",
+    "description": "Teiflings are derived from Human bloodlines, and in the broadest possible sense, they still look human. However, thier infernal heritage has left a clear imprint on thier appearence."
+}

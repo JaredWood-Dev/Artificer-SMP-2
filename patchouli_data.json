@@ -35,9 +35,17 @@
       "bookmarks": [],
       "completedManualQuests": []
     },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:tools/overgrowth_seed"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "ars_nouveau:worn_notebook": {
       "viewedEntries": [
-        "ars_nouveau:tomeofblood/spellbooks"
+        "ars_nouveau:tomeofblood/spellbooks",
+        "ars_nouveau:equipment/annotated_codex"
       ],
       "bookmarks": [],
       "completedManualQuests": []

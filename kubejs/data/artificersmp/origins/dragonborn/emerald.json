@@ -1,0 +1,14 @@
+{
+    "powers": [
+         "artificersmp:dragonborn/amethyst/amethyst_breath_weapon",
+         "artificersmp:dragonborn/dragonborn_draconic_resistance_force",
+         "artificersmp:dragonborn/gem_gem_flight",
+         "artificersmp:dragonborn/dragonborn_habitat_underground"
+    ],
+    "icon": {
+        "item":"minecraft:emerald"
+    },
+    "impact": 2,
+    "name": "Emerald",
+    "description": "Emerald Dragonborn claim lineage to Emerald Dragons, creatures who breath mind attacking phychic breath."
+}

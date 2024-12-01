@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "artificersmp:dwarf/dawi_zharr/dwarf_dawi_magic_affinity",
+        "artificersmp:dwarf/dawi_zharr/dwarf_dawi_hellcannon",
+        "artificersmp:dwarf/dawi_zharr/dwarf_dawi_fire_resistance",
+        "artificersmp:dwarf/dawi_zharr/dwarf_dawi_destroyed_terrain",
+        "artificersmp:villager_hate"
+    ],
+    "icon": {
+        "item":"minecraft:magma_block"
+    },
+    "impact": 2,
+    "name": "Dawi-Zharr",
+    "description": "Dawi-Zharr are the worst traits of dwarves given a physical form, warped by chaos energy."
+}

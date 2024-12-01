@@ -1,0 +1,14 @@
+{
+    "powers": [
+         "artificersmp:dragonborn/black/black_breath_weapon",
+         "artificersmp:dragonborn/dragonborn_draconic_resistance_acid",
+         "artificersmp:dragonborn/dragonborn_habitat_temperate_and_wet",
+         "artificersmp:dragonborn/black/black_chromatic_warding"
+    ],
+    "icon": {
+        "item":"minecraft:black_dye"
+    },
+    "impact": 2,
+    "name": "Black",
+    "description": "Black Dragonborn claim linage to Black Dragons, creatues who breathe corrosive acid."
+}

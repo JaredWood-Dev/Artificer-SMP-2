@@ -436,3 +436,8 @@
 		"ars_scalaes:source_addict_2" = true
 		"ars_scalaes:mana_absorber" = true
 
+	[origins."artificersmp:meiji"]
+		enabled = true
+		"artificersmp:meiji/meiji_nimbleness" = true
+		"artificersmp:meiji/meiji_thrown_arms" = true
+

@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "artificersmp:meiji/meiji_nimbleness",
+        "artificersmp:meiji/meiji_thrown_arms"
+    ],
+    "icon": {
+        "item":"minecraft:cocoa_beans"
+    },
+    "impact": 1,
+    "name": "Meiji",
+    "description": "Meiji are monkey folk from eastern lands. They are nimble and dextrous and can climb very easily."
+}

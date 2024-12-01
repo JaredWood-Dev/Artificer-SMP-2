@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "artificersmp:goliath/goliath_mountain_born",
+        "artificersmp:goliath/goliath_giant_build",
+        "origins:more_exhaustion",
+        "artificersmp:goliath/goliath_giant_legacy",
+        "artificersmp:goliath/goliath_enviroment"
+    ],
+    "icon": {
+        "item":"minecraft:stone"
+    },
+    "impact": 2,
+    "name": "Goliath",
+    "description": "Goliaths are half-giants who wander the cold, desolate mountain peaks. They exhibit the gray skin and enduring strength from the giants in which they claim lineage."
+}

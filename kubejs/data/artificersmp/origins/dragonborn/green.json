@@ -1,0 +1,14 @@
+{
+    "powers": [
+         "artificersmp:dragonborn/green/green_breath_weapon",
+         "artificersmp:dragonborn/dragonborn_draconic_resistance_poison",
+         "artificersmp:dragonborn/dragonborn_habitat_temperate_and_wet",
+         "artificersmp:dragonborn/green/green_chromatic_warding"
+    ],
+    "icon": {
+        "item":"minecraft:green_dye"
+    },
+    "impact": 2,
+    "name": "Green",
+    "description": "Green Dragonborn claim lineage to Green Dragons, creatures who breathe clouds of poisonous gas."
+}

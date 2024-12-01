@@ -1,0 +1,14 @@
+{
+    "powers": [
+         "artificersmp:dragonborn/topaz/topaz_breath_weapon",
+         "artificersmp:dragonborn/dragonborn_draconic_resistance_necrotic",
+         "artificersmp:dragonborn/gem_gem_flight",
+         "artificersmp:dragonborn/dragonborn_habitat_coast"
+    ],
+    "icon": {
+        "item":"knightsnmages:citrin_gem"
+    },
+    "impact": 2,
+    "name": "Topaz",
+    "description": "Topaz Dragonborn claim linage to Topaz Dragons, creatures whos breath withers away thier victims."
+}

@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "artificersmp:dwarf/mountain/dwarf_mountain_strength",
+        "artificersmp:dwarf/mountain/dwarf_mountain_armor_prof"
+    ],
+    "icon": {
+        "item":"minecraft:stone"
+    },
+    "impact": 1,
+    "name": "Mountain",
+    "description": "Mountain Dwarves are strong and hearty, and accustomed to life in difficult terrain."
+}

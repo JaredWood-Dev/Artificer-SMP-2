@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "artificersmp:dwarf/hill/dwarf_hill_improved_constitution"
+    ],
+    "icon": {
+        "item":"minecraft:coarse_dirt"
+    },
+    "impact": 1,
+    "name": "Hill",
+    "description": "Hill Dwarves have keen senses, deep intuition, and remarkable resiliance."
+}

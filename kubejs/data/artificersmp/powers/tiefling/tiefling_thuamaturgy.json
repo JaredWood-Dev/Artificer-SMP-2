@@ -1,0 +1,21 @@
+{
+    "name": "Thuamaturgy",
+    "description": "You are naturally skilled at basic magic. You can cast thaumatugry to create different effects. Press your key to make Thunderous noise.",
+    "type": "origins:multiple",
+    "thunder": {
+        "type": "origins:active_self",
+        "key": {
+            "key": "key.origins.secondary_active"
+        },
+        "cooldown": 20,
+        "entity_action": {
+            "type": "origins:play_sound",
+            "category": "players",
+            "sound": "minecraft:entity.lightning_bolt.thunder",
+            "volume": 1
+        },
+        "hud_render": {
+            "should_render": true
+        }
+    }
+}

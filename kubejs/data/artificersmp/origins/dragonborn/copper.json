@@ -1,0 +1,13 @@
+{
+    "powers": [
+         "artificersmp:dragonborn/black/black_breath_weapon",
+         "artificersmp:dragonborn/dragonborn_draconic_resistance_acid",
+         "artificersmp:dragonborn/dragonborn_habitat_dry_upland"
+    ],
+    "icon": {
+        "item":"minecraft:copper_ingot"
+    },
+    "impact": 2,
+    "name": "Copper",
+    "description": "Copper Dragonborn claim linage to Copper Dragons, creatures who breath corrosive acid."
+}

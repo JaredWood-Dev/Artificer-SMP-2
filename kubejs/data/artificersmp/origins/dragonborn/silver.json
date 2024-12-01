@@ -1,0 +1,13 @@
+{
+    "powers": [
+         "artificersmp:dragonborn/white/white_breath_weapon",
+         "artificersmp:dragonborn/dragonborn_draconic_resistance_cold",
+         "artificersmp:dragonborn/dragonborn_habitat_mountains_and_glaciers"
+    ],
+    "icon": {
+        "item":"iceandfire:silver_ingot"
+    },
+    "impact": 2,
+    "name": "Silver",
+    "description": "Silver Dragonborn claim linage to Silver Dragons, creatures who breathe freezing mist."
+}

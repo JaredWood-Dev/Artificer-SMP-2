@@ -1,0 +1,13 @@
+{
+    "powers": [
+         "artificersmp:dragonborn/blue/blue_breath_weapon",
+         "artificersmp:dragonborn/dragonborn_draconic_resistance_lightning",
+         "artificersmp:dragonborn/dragonborn_habitat_coast"
+    ],
+    "icon": {
+        "item":"ad_astra:desh_ingot"
+    },
+    "impact": 2,
+    "name": "Bronze",
+    "description": "Bronze Dragonborn claim linage to Bronze Dragons, creatures who breathe bolts of Lightning."
+}

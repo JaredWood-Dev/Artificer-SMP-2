@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "artificersmp:elf/elf_elven_build",
+        "artificersmp:darkvision",
+        "artificersmp:elf/elf_trance"
+    ],
+    "icon": {
+        "item":"minecraft:chiseled_quartz_block"
+    },
+    "impact": 1,
+    "name": "Elf",
+    "description": "Elves are magical people of otherworldy grace, living in the world but not entirly in it. Elves love nature and magic, art and artistry, music and poetry."
+}

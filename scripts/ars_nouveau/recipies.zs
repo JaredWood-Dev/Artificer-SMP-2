@@ -17,3 +17,7 @@ craftingTable.removeByName("ars_nouveau:volcanic_sourcelink");
 craftingTable.removeByName("ars_nouveau:alchemical_sourcelink");
 craftingTable.removeByName("ars_nouveau:vitalic_sourcelink");
 craftingTable.removeByName("ars_nouveau:mycelial_sourcelink");
+craftingTable.removeByName("ars_nouveau:annotated_codex");
+
+//New Codex Recipe
+craftingTable.addShapeless("annotated_codex", <item:ars_nouveau:annotated_codex>, [<item:ars_nouveau:blank_parchment>, <item:minecraft:leather>, <item:minecraft:nether_star>]);

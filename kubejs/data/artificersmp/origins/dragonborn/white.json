@@ -1,0 +1,14 @@
+{
+    "powers": [
+         "artificersmp:dragonborn/white/white_breath_weapon",
+         "artificersmp:dragonborn/dragonborn_draconic_resistance_cold",
+         "artificersmp:dragonborn/dragonborn_habitat_mountains_and_glaciers",
+         "artificersmp:dragonborn/white/white_chromatic_warding"
+    ],
+    "icon": {
+        "item":"minecraft:white_dye"
+    },
+    "impact": 2,
+    "name": "White",
+    "description": "White Dragonborn claim linage to White Dragons, creatures who breathe freezing mist."
+}

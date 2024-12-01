@@ -1,0 +1,62 @@
+{
+    "name": "Meiji Combat Training",
+    "description": "You have proficiency with thrown arms (shurikens, darts, etc), dealing slightly more damage with them.",
+    "type": "origins:multiple",
+    "melee": {
+        "type": "origins:modify_damage_dealt",
+        "damage_condition":{
+      "type": "origins:attacker",
+      "entity_condition": {
+        "type": "origins:equipped_item",
+        "equipment_slot": "mainhand",
+        "item_condition": {
+          "type": "origins:ingredient",
+          "ingredient": [
+            {
+                "item": "aether_redux:infused_veridium_dart_shooter"
+            },
+            {
+                "item": "aether_redux:veridium_dart_shooter"
+            },
+            {
+                "item": "aether:poison_dart_shooter"
+            },
+            {
+                "item": "aether:golden_dart_shooter"
+            },
+            {
+                "item": "relics:shadow_glaive"
+            },
+            {
+                "item": "samurai_dynasty:kunai_netherite"
+            },
+            {
+                "item": "samurai_dynasty:kunai"
+            },
+            {
+                "item": "samurai_dynasty:shuriken"
+            },
+            {
+                "item": "minecraft:trident"
+            }
+          ]
+        }
+      }
+    },
+    "modifier": {
+      "operation": "addition",
+      "value": 1.0
+    }
+    },
+    "thrown": {
+        "type": "origins:target_action_on_hit",
+        "damage_condition": {
+            "type": "origins:projectile"
+        },
+        "entity_action": {
+            "type": "origins:damage",
+            "amount": 5,
+            "damage_type": "minecraft:thrown"
+        }
+    }
+  }

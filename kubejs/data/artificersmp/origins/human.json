@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "artificersmp:human/human_ambition",
+        "artificersmp:human/human_versatility"
+    ],
+    "icon": {
+        "item":"minecraft:player_head"
+    },
+    "impact": 0,
+    "name": "Variant Human",
+    "description": "Humans are the most common race among worlds of the material plane. Thier amibtion and versatility are commended among the other races of world, and thier lasting instutions and empires have left a mark on history."
+}
